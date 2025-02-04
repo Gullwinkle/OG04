@@ -1,5 +1,5 @@
-from main import summa
+from main import calc
 
-summa(10, 12)
-summa(46,2)
-summa(42, 8)
+calc(10, 12)
+calc(46,2)
+calc(42, 8)
